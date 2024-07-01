@@ -1,0 +1,14 @@
+<?xml version="1.0"?> 
+<opencv_storage>
+<intrinsics_penne type_id="opencv-matrix">
+  <rows>5</rows> 
+  <cols>1</cols> 
+  <dt>d</dt> 
+  <data> 
+    -2.554413744705693e-02 
+    4.138923714421228e-02 
+    1.727712353710484e-03 
+    8.906120319129498e-04 
+    0.000000000000000e+00 
+  </data></intrinsics_penne> 
+</opencv_storage> 
