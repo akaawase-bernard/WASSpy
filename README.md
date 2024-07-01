@@ -1,4 +1,5 @@
 # wasspy
+This repo is still under development... Use at your risk.
 
 ```bash
 wasspy/
